@@ -1,1 +1,6 @@
 C:\Tecnomips\Ara.Net2\Ara2.AraIFrame\Ara2.AraIFrame\obj\Debug\Ara2.AraIFrame.csprojResolveAssemblyReference.cache
+C:\Tecnomips\Ara.Net2\Ara2.AraIFrame\Ara2.AraIFrame\bin\Debug\Ara2.AraIFrame.dll
+C:\Tecnomips\Ara.Net2\Ara2.AraIFrame\Ara2.AraIFrame\bin\Debug\Ara2.AraIFrame.pdb
+C:\Tecnomips\Ara.Net2\Ara2.AraIFrame\Ara2.AraIFrame\bin\Debug\Ara2.dll
+C:\Tecnomips\Ara.Net2\Ara2.AraIFrame\Ara2.AraIFrame\obj\Debug\Ara2.AraIFrame.dll
+C:\Tecnomips\Ara.Net2\Ara2.AraIFrame\Ara2.AraIFrame\obj\Debug\Ara2.AraIFrame.pdb

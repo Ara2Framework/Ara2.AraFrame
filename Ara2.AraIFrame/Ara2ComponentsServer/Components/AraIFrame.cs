@@ -9,7 +9,6 @@ using System.Text;
 using System.Reflection;
 using System.IO;
 using Ara2;
-using Ara2.Components.Textbox;
 using Ara2.Dev;
 
 namespace Ara2.Components
